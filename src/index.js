@@ -12,7 +12,7 @@ ReactDOM.render(
     <h1 className="heading" contentEditable="false">
       JS Expressions in JSX
     </h1>
-    <h3>Created by {`${fName} ${lName}`}</h3>
+    <h2>Created by {`${fName} ${lName}`}</h2>
     <p>
       Yeah, but John, if The Pirates of the Caribbean breaks down, the pirates
       don’t eat the tourists. Remind me to thank John for a lovely weekend. Life
